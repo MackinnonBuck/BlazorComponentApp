@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+    <script type="text/javascript">
+        function updateData() {
+            const statusText = window.document.getElementById("statusText");
+            statusText.textContent = "js works!";
+        }
+    </script>
+</head>
+
+<body>
+    <div>
+        <button onclick="updateData()">Execute JS</button>
+        <span style="color:gray;vertical-align:central;align-content:center" id='statusText'>
+            message status
+        </span>
+    </div>
+
+</body>
+</html>

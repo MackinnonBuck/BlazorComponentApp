@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BlazorComponentApp"
+             xmlns:CustomRCL="clr-namespace:CustomRCL;assembly=CustomRCL"
+             x:Class="BlazorComponentApp.MainPage"
+             BackgroundColor="{DynamicResource PageBackgroundColor}">
+    <StackLayout>
+
+        <BlazorWebView x:Name="blazorWebView" HostPage="wwwroot/ChartIQ/ChartIQ1.html"
+                           HeightRequest="650"
+                           WidthRequest="1200">
+            <BlazorWebView.RootComponents>
+                <RootComponent Selector="#app" ComponentType="{x:Type CustomRCL:ChartIQ1}" />
+            </BlazorWebView.RootComponents>
+        </BlazorWebView>
+
+        <Button WidthRequest="150"
+                HeightRequest="50"
+                Text="Chart Init"
+                Clicked="chartInit"  
+            />
+
+    </StackLayout>
+</ContentPage>

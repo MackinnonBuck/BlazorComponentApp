@@ -1,0 +1,40 @@
+﻿@inject ConnectorService ConnectorService
+@inject IJSRuntime JSRuntime
+@implements IDisposable
+
+<div class="my-component">
+    This component is defined in the <strong>CustomRCL</strong> library.
+</div>
+
+
+
+@code {
+
+	private Lazy<Task<IJSObjectReference>> moduleTask;
+
+	protected override async Task OnInitializedAsync()
+	{
+	}
+
+	protected override void OnInitialized()
+	{
+		ConnectorService.OnExecuteJS += OnExecuteJS;
+
+		moduleTask = new(() => JSRuntime.InvokeAsync<IJSObjectReference>(
+				"import", "./_content/wwwroot/ChartIQ/js/inlinescript-test.js").AsTask());
+	}
+	public async Task OnExecuteJS(string jsName, string messageBody)
+	{
+		var module = await moduleTask.Value;
+
+		await module.InvokeVoidAsync(jsName, messageBody);
+	}
+
+
+	public void Dispose()
+	{
+		ConnectorService.OnExecuteJS -= OnExecuteJS;
+	}
+
+}
+
