@@ -883,6 +883,9 @@
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\ChartIQ2.html">
       <PackagePath>wwwroot\ChartIQ\ChartIQ2.html</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\ChartIQ3.html">
+      <PackagePath>wwwroot\ChartIQ\ChartIQ3.html</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\css\_ciq-components.scss">
       <PackagePath>wwwroot\ChartIQ\css\_ciq-components.scss</PackagePath>
     </AppxPackagedFile>

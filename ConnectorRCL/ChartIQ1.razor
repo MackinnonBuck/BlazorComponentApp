@@ -10,7 +10,6 @@
 
 @code {
 
-	private Lazy<Task<IJSObjectReference>> moduleTask;
 
 	protected override async Task OnInitializedAsync()
 	{
@@ -20,14 +19,10 @@
 	{
 		ConnectorService.OnExecuteJS += OnExecuteJS;
 
-		moduleTask = new(() => JSRuntime.InvokeAsync<IJSObjectReference>(
-				"import", "./_content/wwwroot/ChartIQ/js/inlinescript-test.js").AsTask());
 	}
 	public async Task OnExecuteJS(string jsName, string messageBody)
 	{
-		var module = await moduleTask.Value;
-
-		await module.InvokeVoidAsync(jsName, messageBody);
+		await JSRuntime.InvokeVoidAsync(jsName, messageBody);
 	}
 
 

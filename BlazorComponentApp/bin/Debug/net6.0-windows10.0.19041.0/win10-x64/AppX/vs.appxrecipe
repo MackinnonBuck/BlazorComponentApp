@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-02T18:25:22.636</Modified>
+      <Modified>2022-11-02T20:18:18.771</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-11-02T18:25:22.032</Modified>
+      <Modified>2022-11-02T20:18:18.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BlazorComponentApp.runtimeconfig.json">
       <PackagePath>BlazorComponentApp.runtimeconfig.json</PackagePath>
-      <Modified>2022-11-02T18:25:21.711</Modified>
+      <Modified>2022-11-02T20:16:31.907</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BlazorComponentApp.dll">
       <PackagePath>BlazorComponentApp.dll</PackagePath>
-      <Modified>2022-11-02T18:23:19.567</Modified>
+      <Modified>2022-11-02T20:16:18.997</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>BlazorComponentApp.exe</PackagePath>
-      <Modified>2022-11-02T18:23:19.597</Modified>
+      <Modified>2022-11-02T20:16:19.009</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\linkaiyu\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.10\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1135,19 +1135,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorLib\bin\Debug\net6.0\ConnectorLib.dll">
       <PackagePath>ConnectorLib.dll</PackagePath>
-      <Modified>2022-11-02T18:23:04.977</Modified>
+      <Modified>2022-11-02T20:16:07.690</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\bin\Debug\net6.0\CustomRCL.dll">
       <PackagePath>CustomRCL.dll</PackagePath>
-      <Modified>2022-11-02T18:23:06.864</Modified>
+      <Modified>2022-11-02T20:16:08.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BlazorComponentApp.deps.json">
       <PackagePath>BlazorComponentApp.deps.json</PackagePath>
-      <Modified>2022-11-02T18:25:22.378</Modified>
+      <Modified>2022-11-02T20:18:18.528</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\staticwebassets.development.json">
       <PackagePath>CustomRCL.staticwebassets.runtime.json</PackagePath>
-      <Modified>2022-11-02T18:23:07.013</Modified>
+      <Modified>2022-11-02T20:16:08.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\linkaiyu\.nuget\packages\microsoft.maui.controls.ref.win\6.0.541\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1167,14 +1167,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BlazorComponentApp.styles.css">
       <PackagePath>wwwroot\BlazorComponentApp.styles.css</PackagePath>
-      <Modified>2022-11-02T18:23:11.738</Modified>
+      <Modified>2022-11-02T20:16:09.875</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\ChartIQ1.html">
       <PackagePath>wwwroot\ChartIQ\ChartIQ1.html</PackagePath>
-      <Modified>2022-11-02T17:52:26.462</Modified>
+      <Modified>2022-11-02T20:08:14.228</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\ChartIQ2.html">
       <PackagePath>wwwroot\ChartIQ\ChartIQ2.html</PackagePath>
+      <Modified>2022-11-02T18:47:23.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\ChartIQ3.html">
+      <PackagePath>wwwroot\ChartIQ\ChartIQ3.html</PackagePath>
       <Modified>2022-11-02T17:51:41.266</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\css\_ciq-components.scss">
@@ -1891,19 +1895,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\scopedcss\projectbundle\CustomRCL.bundle.scp.css">
       <PackagePath>wwwroot\_content\CustomRCL\CustomRCL.bundle.scp.css</PackagePath>
-      <Modified>2022-11-02T18:23:07.421</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\background.png">
-      <PackagePath>wwwroot\_content\CustomRCL\background.png</PackagePath>
-      <Modified>2022-10-22T15:47:30.271</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\index.html">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\index.html</PackagePath>
-      <Modified>2022-10-30T23:23:09.367</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\indexChartIQ.html">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\indexChartIQ.html</PackagePath>
-      <Modified>2022-11-01T23:30:45.362</Modified>
+      <Modified>2022-11-02T20:16:08.472</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\addOns.d.ts">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\addOns.d.ts</PackagePath>
@@ -2159,7 +2151,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\inlinescript-test.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\inlinescript-test.js</PackagePath>
-      <Modified>2022-11-02T01:40:18.460</Modified>
+      <Modified>2022-11-02T18:41:59.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\standard.d.ts">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\standard.d.ts</PackagePath>
@@ -2181,41 +2173,29 @@
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\thirdparty\perfect-scrollbar.esm.js</PackagePath>
       <Modified>2022-08-08T21:59:47.612</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\package.json">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\package.json</PackagePath>
-      <Modified>2022-08-08T21:59:47.647</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\technical-analysis-chart.html">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\technical-analysis-chart.html</PackagePath>
-      <Modified>2022-11-01T14:41:53.396</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\testapp.html">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\testapp.html</PackagePath>
-      <Modified>2022-08-08T21:59:47.652</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\exampleJsInterop.js">
       <PackagePath>wwwroot\_content\CustomRCL\exampleJsInterop.js</PackagePath>
       <Modified>2022-10-22T15:47:30.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.632</Modified>
+      <Modified>2022-11-02T20:16:17.823</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.652</Modified>
+      <Modified>2022-11-02T20:16:17.848</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.674</Modified>
+      <Modified>2022-11-02T20:16:17.873</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.712</Modified>
+      <Modified>2022-11-02T20:16:17.905</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.828</Modified>
+      <Modified>2022-11-02T20:16:18.034</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -2223,207 +2203,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-11-02T18:23:18.874</Modified>
+      <Modified>2022-11-02T20:16:18.080</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.165</Modified>
+      <Modified>2022-11-02T20:16:18.407</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.178</Modified>
+      <Modified>2022-11-02T20:16:18.420</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.188</Modified>
+      <Modified>2022-11-02T20:16:18.430</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.204</Modified>
+      <Modified>2022-11-02T20:16:18.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.269</Modified>
+      <Modified>2022-11-02T20:16:18.514</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.963</Modified>
+      <Modified>2022-11-02T20:16:18.201</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.967</Modified>
+      <Modified>2022-11-02T20:16:18.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.984</Modified>
+      <Modified>2022-11-02T20:16:18.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.972</Modified>
+      <Modified>2022-11-02T20:16:18.209</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.975</Modified>
+      <Modified>2022-11-02T20:16:18.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.935</Modified>
+      <Modified>2022-11-02T20:16:18.171</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.941</Modified>
+      <Modified>2022-11-02T20:16:18.176</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.959</Modified>
+      <Modified>2022-11-02T20:16:18.197</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.946</Modified>
+      <Modified>2022-11-02T20:16:18.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.950</Modified>
+      <Modified>2022-11-02T20:16:18.186</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.885</Modified>
+      <Modified>2022-11-02T20:16:18.101</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.888</Modified>
+      <Modified>2022-11-02T20:16:18.107</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.892</Modified>
+      <Modified>2022-11-02T20:16:18.113</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.898</Modified>
+      <Modified>2022-11-02T20:16:18.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.905</Modified>
+      <Modified>2022-11-02T20:16:18.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.909</Modified>
+      <Modified>2022-11-02T20:16:18.140</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.913</Modified>
+      <Modified>2022-11-02T20:16:18.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.930</Modified>
+      <Modified>2022-11-02T20:16:18.167</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.917</Modified>
+      <Modified>2022-11-02T20:16:18.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.921</Modified>
+      <Modified>2022-11-02T20:16:18.157</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.043</Modified>
+      <Modified>2022-11-02T20:16:18.283</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.049</Modified>
+      <Modified>2022-11-02T20:16:18.290</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.056</Modified>
+      <Modified>2022-11-02T20:16:18.297</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.064</Modified>
+      <Modified>2022-11-02T20:16:18.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.081</Modified>
+      <Modified>2022-11-02T20:16:18.326</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.013</Modified>
+      <Modified>2022-11-02T20:16:18.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.017</Modified>
+      <Modified>2022-11-02T20:16:18.256</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.022</Modified>
+      <Modified>2022-11-02T20:16:18.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.026</Modified>
+      <Modified>2022-11-02T20:16:18.267</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.038</Modified>
+      <Modified>2022-11-02T20:16:18.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.988</Modified>
+      <Modified>2022-11-02T20:16:18.225</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.993</Modified>
+      <Modified>2022-11-02T20:16:18.231</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.998</Modified>
+      <Modified>2022-11-02T20:16:18.235</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.003</Modified>
+      <Modified>2022-11-02T20:16:18.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.009</Modified>
+      <Modified>2022-11-02T20:16:18.247</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.090</Modified>
+      <Modified>2022-11-02T20:16:18.333</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.099</Modified>
+      <Modified>2022-11-02T20:16:18.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.110</Modified>
+      <Modified>2022-11-02T20:16:18.350</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.122</Modified>
+      <Modified>2022-11-02T20:16:18.364</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.155</Modified>
+      <Modified>2022-11-02T20:16:18.397</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.924</Modified>
+      <Modified>2022-11-02T20:16:18.158</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.939</Modified>
+      <Modified>2022-11-02T20:16:18.172</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.956</Modified>
+      <Modified>2022-11-02T20:16:18.188</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-11-02T18:23:18.980</Modified>
+      <Modified>2022-11-02T20:16:18.214</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-11-02T18:23:19.035</Modified>
+      <Modified>2022-11-02T20:16:18.269</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

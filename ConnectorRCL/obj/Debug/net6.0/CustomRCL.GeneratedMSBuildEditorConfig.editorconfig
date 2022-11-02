@@ -16,8 +16,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/DebugLabs/Blazor/repo_blazor_component/ConnectorRCL/ChartIQ2.razor]
-build_metadata.AdditionalFiles.TargetPath = Q2hhcnRJUTIucmF6b3I=
+[C:/DebugLabs/Blazor/repo_blazor_component/ConnectorRCL/ChartIQ3.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2hhcnRJUTMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/DebugLabs/Blazor/repo_blazor_component/ConnectorRCL/_Imports.razor]
@@ -27,3 +27,7 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/DebugLabs/Blazor/repo_blazor_component/ConnectorRCL/ChartIQ1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q2hhcnRJUTEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0wbr2i3z2m
+
+[C:/DebugLabs/Blazor/repo_blazor_component/ConnectorRCL/ChartIQ2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q2hhcnRJUTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-tst2bltpdx

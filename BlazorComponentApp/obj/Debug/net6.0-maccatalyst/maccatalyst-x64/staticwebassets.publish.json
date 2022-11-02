@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UZzB04dT5oC4ga/3QHRZ9cpAgks78CniYCNGipKjxrE=",
+  "Hash": "CU8dddBOUpxIihSE4b3TioJSeFf+TCpaSxMSkDjXLDA=",
   "Source": "BlazorComponentApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -85,6 +85,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\ChartIQ\\ChartIQ2.html"
+    },
+    {
+      "Identity": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\ChartIQ3.html",
+      "SourceId": "BlazorComponentApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "ChartIQ/ChartIQ3.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\ChartIQ\\ChartIQ3.html"
     },
     {
       "Identity": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\css\\_ciq-components.scss",

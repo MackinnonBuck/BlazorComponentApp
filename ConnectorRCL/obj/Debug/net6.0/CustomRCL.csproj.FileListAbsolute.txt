@@ -24,3 +24,4 @@ C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\CustomRC
 C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\refint\CustomRCL.dll
 C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\CustomRCL.pdb
 C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\ref\CustomRCL.dll
+C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\scopedcss\ChartIQ2.razor.rz.scp.css

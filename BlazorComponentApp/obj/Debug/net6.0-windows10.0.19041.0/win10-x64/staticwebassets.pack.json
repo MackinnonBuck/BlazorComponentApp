@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\ChartIQ\\ChartIQ2.html"
     },
     {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\ChartIQ3.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\ChartIQ3.html"
+    },
+    {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\css\\_ciq-components.scss",
       "PackagePath": "staticwebassets\\ChartIQ\\css\\_ciq-components.scss"
     },
