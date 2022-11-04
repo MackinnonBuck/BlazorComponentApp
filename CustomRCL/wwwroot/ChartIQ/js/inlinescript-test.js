@@ -1,7 +1,7 @@
 ﻿    // This inline script acts as the entry point, without creating a separate external file.
 
-    import "js/advanced.js";
-    import "js/addOns.js";
+    import "./advanced.js";
+    import "./addOns.js";
     import {CIQ} from "./components.js";
 
     /* Uncomment the following to access deprecated functions and namespaces. */

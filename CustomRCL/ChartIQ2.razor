@@ -21,7 +21,6 @@
 		ConnectorService.OnExecuteJS += OnExecuteJS;
 
 		moduleTask = new(() => JSRuntime.InvokeAsync<IJSObjectReference>(
-//				"import", "./js/inlinescript-test.js").AsTask());
 				"import", "./_content/CustomRCL/ChartIQ/js/inlinescript-test.js").AsTask());
 	}
 	public async Task OnExecuteJS(string jsName, string messageBody)
