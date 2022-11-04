@@ -5,50 +5,6 @@
       "PackagePath": "staticwebassets\\CustomRCL.bundle.scp.css"
     },
     {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\addOns.d.ts",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\addOns.d.ts"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\addOns.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\addOns.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\advanced.d.ts",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\advanced.d.ts"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\advanced.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\advanced.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\chartiq.d.ts",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\chartiq.d.ts"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\chartiq.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\chartiq.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\componentUI.d.ts",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\componentUI.d.ts"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\componentUI.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\componentUI.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\components.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\components.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\defaultConfiguration.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\defaultConfiguration.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\deprecated.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\deprecated.js"
-    },
-    {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\examples\\data\\SAMPLE_DAILY.csv",
       "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\data\\SAMPLE_DAILY.csv"
     },
@@ -227,58 +183,6 @@
     {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\examples\\translations\\translationSample.js",
       "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\translations\\translationSample.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\extras\\fdc3.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\fdc3.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\extras\\hlcbox.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\hlcbox.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\extras\\optionSentimentByStrike.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\optionSentimentByStrike.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\extras\\optionsAnalysis.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\optionsAnalysis.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\extras\\requestLimiter.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\requestLimiter.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\extras\\svgcharts\\piechart.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\svgcharts\\piechart.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\inlinescript-test.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\inlinescript-test.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\inlinescript.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\inlinescript.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\standard.d.ts",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\standard.d.ts"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\standard.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\standard.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\thirdparty\\custom-elements.min.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\thirdparty\\custom-elements.min.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\thirdparty\\html2canvas.min.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\thirdparty\\html2canvas.min.js"
-    },
-    {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\ChartIQ\\js\\thirdparty\\perfect-scrollbar.esm.js",
-      "PackagePath": "staticwebassets\\ChartIQ\\js\\thirdparty\\perfect-scrollbar.esm.js"
     },
     {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\wwwroot\\exampleJsInterop.js",

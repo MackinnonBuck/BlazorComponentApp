@@ -1417,44 +1417,14 @@
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\css\open-iconic\README.md">
       <PackagePath>wwwroot\css\open-iconic\README.md</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\exampleJsInterop.js">
+      <PackagePath>wwwroot\exampleJsInterop.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\scopedcss\projectbundle\CustomRCL.bundle.scp.css">
       <PackagePath>wwwroot\_content\CustomRCL\CustomRCL.bundle.scp.css</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\addOns.d.ts">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\addOns.d.ts</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\addOns.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\addOns.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\advanced.d.ts">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\advanced.d.ts</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\advanced.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\advanced.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\chartiq.d.ts">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\chartiq.d.ts</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\chartiq.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\chartiq.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\components.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\components.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\componentUI.d.ts">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\componentUI.d.ts</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\componentUI.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\componentUI.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\defaultConfiguration.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\defaultConfiguration.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\deprecated.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\deprecated.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\data\historicalComparisonData.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\data\historicalComparisonData.js</PackagePath>
@@ -1590,45 +1560,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\translations\translationSample.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\translations\translationSample.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\extras\fdc3.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\fdc3.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\extras\hlcbox.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\hlcbox.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\extras\optionsAnalysis.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\optionsAnalysis.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\extras\optionSentimentByStrike.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\optionSentimentByStrike.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\extras\requestLimiter.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\requestLimiter.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\extras\svgcharts\piechart.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\svgcharts\piechart.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\inlinescript.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\inlinescript.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\inlinescript-test.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\inlinescript-test.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\standard.d.ts">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\standard.d.ts</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\standard.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\standard.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\thirdparty\custom-elements.min.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\thirdparty\custom-elements.min.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\thirdparty\html2canvas.min.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\thirdparty\html2canvas.min.js</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\thirdparty\perfect-scrollbar.esm.js">
-      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\thirdparty\perfect-scrollbar.esm.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\exampleJsInterop.js">
       <PackagePath>wwwroot\_content\CustomRCL\exampleJsInterop.js</PackagePath>

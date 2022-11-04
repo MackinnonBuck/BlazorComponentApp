@@ -6,6 +6,60 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Remove="wwwroot\ChartIQ\js\addOns.d.ts" />
+    <Content Remove="wwwroot\ChartIQ\js\addOns.js" />
+    <Content Remove="wwwroot\ChartIQ\js\advanced.d.ts" />
+    <Content Remove="wwwroot\ChartIQ\js\advanced.js" />
+    <Content Remove="wwwroot\ChartIQ\js\chartiq.d.ts" />
+    <Content Remove="wwwroot\ChartIQ\js\chartiq.js" />
+    <Content Remove="wwwroot\ChartIQ\js\components.js" />
+    <Content Remove="wwwroot\ChartIQ\js\componentUI.d.ts" />
+    <Content Remove="wwwroot\ChartIQ\js\componentUI.js" />
+    <Content Remove="wwwroot\ChartIQ\js\defaultConfiguration.js" />
+    <Content Remove="wwwroot\ChartIQ\js\deprecated.js" />
+    <Content Remove="wwwroot\ChartIQ\js\extras\fdc3.js" />
+    <Content Remove="wwwroot\ChartIQ\js\extras\hlcbox.js" />
+    <Content Remove="wwwroot\ChartIQ\js\extras\optionsAnalysis.js" />
+    <Content Remove="wwwroot\ChartIQ\js\extras\optionSentimentByStrike.js" />
+    <Content Remove="wwwroot\ChartIQ\js\extras\requestLimiter.js" />
+    <Content Remove="wwwroot\ChartIQ\js\extras\svgcharts\piechart.js" />
+    <Content Remove="wwwroot\ChartIQ\js\inlinescript-customrcl.js" />
+    <Content Remove="wwwroot\ChartIQ\js\inlinescript.js" />
+    <Content Remove="wwwroot\ChartIQ\js\standard.d.ts" />
+    <Content Remove="wwwroot\ChartIQ\js\standard.js" />
+    <Content Remove="wwwroot\ChartIQ\js\thirdparty\custom-elements.min.js" />
+    <Content Remove="wwwroot\ChartIQ\js\thirdparty\html2canvas.min.js" />
+    <Content Remove="wwwroot\ChartIQ\js\thirdparty\perfect-scrollbar.esm.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\addOns.d.ts" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\addOns.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\advanced.d.ts" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\advanced.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\chartiq.d.ts" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\chartiq.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\components.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\componentUI.d.ts" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\componentUI.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\defaultConfiguration.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\deprecated.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\extras\fdc3.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\extras\hlcbox.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\extras\optionsAnalysis.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\extras\optionSentimentByStrike.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\extras\requestLimiter.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\extras\svgcharts\piechart.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\inlinescript-customrcl.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\inlinescript.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\standard.d.ts" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\standard.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\thirdparty\custom-elements.min.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\thirdparty\html2canvas.min.js" />
+    <EmbeddedResource Include="wwwroot\ChartIQ\js\thirdparty\perfect-scrollbar.esm.js" />
+  </ItemGroup>
+
 
   <ItemGroup>
     <SupportedPlatform Include="browser" />

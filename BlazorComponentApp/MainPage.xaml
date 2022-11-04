@@ -7,11 +7,11 @@
              BackgroundColor="{DynamicResource PageBackgroundColor}">
     <StackLayout>
 
-        <BlazorWebView x:Name="blazorWebView" HostPage="wwwroot/ChartIQ/ChartIQ1.html"
+        <BlazorWebView x:Name="blazorWebView" HostPage="wwwroot/ChartIQ/ChartIQ2.html"
                            HeightRequest="650"
                            WidthRequest="1200">
             <BlazorWebView.RootComponents>
-                <RootComponent Selector="#app" ComponentType="{x:Type CustomRCL:ChartIQ1}" />
+                <RootComponent Selector="#app" ComponentType="{x:Type CustomRCL:ChartIQ2}" />
             </BlazorWebView.RootComponents>
         </BlazorWebView>
 
