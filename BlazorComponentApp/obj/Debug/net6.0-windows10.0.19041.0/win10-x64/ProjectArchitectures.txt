@@ -1,1 +1,0 @@
-C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\BlazorComponentApp.csproj;x64
