@@ -877,15 +877,6 @@
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BlazorComponentApp.styles.css">
       <PackagePath>wwwroot\BlazorComponentApp.styles.css</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\ChartIQ1.html">
-      <PackagePath>wwwroot\ChartIQ\ChartIQ1.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\ChartIQ2.html">
-      <PackagePath>wwwroot\ChartIQ\ChartIQ2.html</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\ChartIQ3.html">
-      <PackagePath>wwwroot\ChartIQ\ChartIQ3.html</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\css\_ciq-components.scss">
       <PackagePath>wwwroot\ChartIQ\css\_ciq-components.scss</PackagePath>
     </AppxPackagedFile>
@@ -1363,6 +1354,9 @@
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\js\inlinescript-test.js">
       <PackagePath>wwwroot\ChartIQ\js\inlinescript-test.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\js\main.js">
+      <PackagePath>wwwroot\ChartIQ\js\main.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\js\standard.d.ts">
       <PackagePath>wwwroot\ChartIQ\js\standard.d.ts</PackagePath>
     </AppxPackagedFile>
@@ -1380,6 +1374,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\package.json">
       <PackagePath>wwwroot\ChartIQ\package.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ1.html">
+      <PackagePath>wwwroot\ChartIQ1.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ2.html">
+      <PackagePath>wwwroot\ChartIQ2.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ3.html">
+      <PackagePath>wwwroot\ChartIQ3.html</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\css\app.css">
       <PackagePath>wwwroot\css\app.css</PackagePath>

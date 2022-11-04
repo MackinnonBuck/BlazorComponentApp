@@ -5,16 +5,16 @@
       "PackagePath": "staticwebassets\\BlazorComponentApp.styles.css"
     },
     {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\ChartIQ1.html",
-      "PackagePath": "staticwebassets\\ChartIQ\\ChartIQ1.html"
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ1.html",
+      "PackagePath": "staticwebassets\\ChartIQ1.html"
     },
     {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\ChartIQ2.html",
-      "PackagePath": "staticwebassets\\ChartIQ\\ChartIQ2.html"
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ2.html",
+      "PackagePath": "staticwebassets\\ChartIQ2.html"
     },
     {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\ChartIQ3.html",
-      "PackagePath": "staticwebassets\\ChartIQ\\ChartIQ3.html"
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ3.html",
+      "PackagePath": "staticwebassets\\ChartIQ3.html"
     },
     {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\css\\_ciq-components.scss",
@@ -651,6 +651,10 @@
     {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\js\\inlinescript.js",
       "PackagePath": "staticwebassets\\ChartIQ\\js\\inlinescript.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\js\\main.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\main.js"
     },
     {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\ChartIQ\\js\\standard.d.ts",

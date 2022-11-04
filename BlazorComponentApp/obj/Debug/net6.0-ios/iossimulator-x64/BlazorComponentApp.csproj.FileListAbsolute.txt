@@ -233,7 +233,6 @@ C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-io
 C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-ios\iossimulator-x64\CustomRCL.dll
 C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-ios\iossimulator-x64\ConnectorLib.pdb
 C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-ios\iossimulator-x64\CustomRCL.pdb
-C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature
 C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-ios\iossimulator-x64\staticwebassets\msbuild.BlazorComponentApp.Microsoft.AspNetCore.StaticWebAssets.props
 C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-ios\iossimulator-x64\staticwebassets\msbuild.build.BlazorComponentApp.props
 C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-ios\iossimulator-x64\staticwebassets\msbuild.buildMultiTargeting.BlazorComponentApp.props
@@ -293,3 +292,4 @@ C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-io
 C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-ios\iossimulator-x64\BlazorComponentApp.pdb
 C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-ios\iossimulator-x64\BlazorComponentApp.genruntimeconfig.cache
 C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-ios\iossimulator-x64\ref\BlazorComponentApp.dll
+C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-ios\iossimulator-x64\build-signature\signature

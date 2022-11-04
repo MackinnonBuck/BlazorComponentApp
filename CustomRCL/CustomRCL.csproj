@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="wwwroot\ChartIQ\js\advanced.js" />
+    <Content Remove="wwwroot\js\advanced.js" />
   </ItemGroup>
 
   <ItemGroup>
-    <EmbeddedResource Include="wwwroot\ChartIQ\js\advanced.js" />
+    <EmbeddedResource Include="wwwroot\js\advanced.js" />
   </ItemGroup>
 
 
@@ -25,6 +25,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ConnectorLib\ConnectorLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\ChartIQ\" />
   </ItemGroup>
 
 </Project>
