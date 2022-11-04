@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CustomRCL.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CustomRCL.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\addOns.d.ts",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\addOns.d.ts"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\addOns.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\addOns.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\advanced.d.ts",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\advanced.d.ts"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\chartiq.d.ts",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\chartiq.d.ts"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\chartiq.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\chartiq.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\componentUI.d.ts",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\componentUI.d.ts"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\componentUI.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\componentUI.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\components.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\components.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\defaultConfiguration.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\defaultConfiguration.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\deprecated.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\deprecated.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\exampleJsInterop.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\data\\SAMPLE_DAILY.csv",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\data\\SAMPLE_DAILY.csv"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\data\\SAMPLE_SERIES_DAILY.csv",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\data\\SAMPLE_SERIES_DAILY.csv"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\data\\STX_SAMPLE_5MIN.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\data\\STX_SAMPLE_5MIN.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\data\\STX_SAMPLE_5MIN_test.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\data\\STX_SAMPLE_5MIN_test.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\data\\STX_SAMPLE_DAILY.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\data\\STX_SAMPLE_DAILY.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\data\\historicalComparisonData.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\data\\historicalComparisonData.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\feeds\\L2_simulator.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\feeds\\L2_simulator.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\feeds\\optionChainSimulator.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\feeds\\optionChainSimulator.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\feeds\\quoteFeedForecastSimulator.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\feeds\\quoteFeedForecastSimulator.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\feeds\\quoteFeedSimulator.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\feeds\\quoteFeedSimulator.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\feeds\\sampleQuoteFeed.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\feeds\\sampleQuoteFeed.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\feeds\\symbolLookupChartIQ.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\feeds\\symbolLookupChartIQ.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\feeds\\termstructureDataSimulator.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\feeds\\termstructureDataSimulator.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\help\\helpContent.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\help\\helpContent.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\help\\rectangle.png",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\help\\rectangle.png"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\markers\\img\\helicopter.png",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\markers\\img\\helicopter.png"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\markers\\markersSample.css",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\markers\\markersSample.css"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\markers\\markersSample.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\markers\\markersSample.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\markers\\tradeAnalyticsSample.css",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\markers\\tradeAnalyticsSample.css"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\markers\\tradeAnalyticsSample.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\markers\\tradeAnalyticsSample.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\markers\\videoSample.css",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\markers\\videoSample.css"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\markers\\videoSample.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\markers\\videoSample.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\markets\\marketDefinitionsSample.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\markets\\marketDefinitionsSample.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\markets\\marketSymbologySample.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\markets\\marketSymbologySample.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\README.md",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\README.md"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\chart-grid\\README.md",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\chart-grid\\README.md"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\chart-grid\\chart-grid.css",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\chart-grid\\chart-grid.css"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\chart-grid\\chart-grid.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\chart-grid\\chart-grid.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\chart-grid\\chart-linker.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\chart-grid\\chart-linker.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\chart-grid\\sample-template-chart-grid.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\chart-grid\\sample-template-chart-grid.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\chart-grid\\sample-template-grid-context.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\chart-grid\\sample-template-grid-context.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\partials\\sample-template-advanced-context.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\partials\\sample-template-advanced-context.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\partials\\sample-template-advanced-multi-context.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\partials\\sample-template-advanced-multi-context.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\partials\\sample-template-cross-section-context.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\partials\\sample-template-cross-section-context.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-active-trader.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-active-trader.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-advanced-multi.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-advanced-multi.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-advanced.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-advanced.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-basic.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-basic.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-instant-chart.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-instant-chart.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-institutional.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-institutional.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-multi-charts.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-multi-charts.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-option-chain-analysis.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-option-chain-analysis.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-options.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-options.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\templates\\sample-template-term-structure.html",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\templates\\sample-template-term-structure.html"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\examples\\translations\\translationSample.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\examples\\translations\\translationSample.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\extras\\fdc3.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\fdc3.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\extras\\hlcbox.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\hlcbox.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\extras\\optionSentimentByStrike.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\optionSentimentByStrike.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\extras\\optionsAnalysis.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\optionsAnalysis.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\extras\\requestLimiter.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\requestLimiter.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\extras\\svgcharts\\piechart.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\extras\\svgcharts\\piechart.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\inlinescript-test.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\inlinescript-test.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\inlinescript.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\inlinescript.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\standard.d.ts",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\standard.d.ts"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\standard.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\standard.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\thirdparty\\custom-elements.min.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\thirdparty\\custom-elements.min.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\thirdparty\\html2canvas.min.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\thirdparty\\html2canvas.min.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\ChartIQ\\js\\thirdparty\\perfect-scrollbar.esm.js",
+      "PackagePath": "staticwebassets\\ChartIQ\\js\\thirdparty\\perfect-scrollbar.esm.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CustomRCL.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CustomRCL.props",
+      "PackagePath": "build\\CustomRCL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CustomRCL.props",
+      "PackagePath": "buildMultiTargeting\\CustomRCL.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CustomRCL.props",
+      "PackagePath": "buildTransitive\\CustomRCL.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

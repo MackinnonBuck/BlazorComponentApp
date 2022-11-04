@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-11-04T03:07:15.192</Modified>
+      <Modified>2022-11-04T15:26:46.931</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-11-04T03:07:14.321</Modified>
+      <Modified>2022-11-04T15:26:46.291</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BlazorComponentApp.runtimeconfig.json">
       <PackagePath>BlazorComponentApp.runtimeconfig.json</PackagePath>
-      <Modified>2022-11-04T03:03:20.302</Modified>
+      <Modified>2022-11-04T15:26:46.081</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\BlazorComponentApp.dll">
       <PackagePath>BlazorComponentApp.dll</PackagePath>
-      <Modified>2022-11-04T03:03:04.308</Modified>
+      <Modified>2022-11-04T15:26:29.638</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>BlazorComponentApp.exe</PackagePath>
-      <Modified>2022-11-04T03:03:04.342</Modified>
+      <Modified>2022-11-04T15:26:29.666</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\linkaiyu\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.10\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1135,19 +1135,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorLib\bin\Debug\net6.0\ConnectorLib.dll">
       <PackagePath>ConnectorLib.dll</PackagePath>
-      <Modified>2022-11-04T03:02:48.677</Modified>
+      <Modified>2022-11-04T15:26:19.156</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\bin\Debug\net6.0\CustomRCL.dll">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\bin\Debug\net6.0\CustomRCL.dll">
       <PackagePath>CustomRCL.dll</PackagePath>
-      <Modified>2022-11-04T03:02:49.343</Modified>
+      <Modified>2022-11-04T15:26:19.529</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\BlazorComponentApp.deps.json">
       <PackagePath>BlazorComponentApp.deps.json</PackagePath>
-      <Modified>2022-11-04T03:07:14.793</Modified>
+      <Modified>2022-11-04T15:26:46.670</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\staticwebassets.development.json">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\obj\Debug\net6.0\staticwebassets.development.json">
       <PackagePath>CustomRCL.staticwebassets.runtime.json</PackagePath>
-      <Modified>2022-11-04T03:02:49.375</Modified>
+      <Modified>2022-11-04T15:26:19.560</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\linkaiyu\.nuget\packages\microsoft.maui.controls.ref.win\6.0.541\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1167,7 +1167,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\BlazorComponentApp.styles.css">
       <PackagePath>wwwroot\BlazorComponentApp.styles.css</PackagePath>
-      <Modified>2022-11-04T03:02:55.309</Modified>
+      <Modified>2022-11-04T15:26:21.325</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\ChartIQ\ChartIQ1.html">
       <PackagePath>wwwroot\ChartIQ\ChartIQ1.html</PackagePath>
@@ -1889,221 +1889,313 @@
       <PackagePath>wwwroot\css\open-iconic\README.md</PackagePath>
       <Modified>2022-10-14T13:37:59.173</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\exampleJsInterop.js">
-      <PackagePath>wwwroot\exampleJsInterop.js</PackagePath>
-      <Modified>2022-10-22T15:47:30.272</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
       <Modified>2022-10-14T13:37:59.399</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\obj\Debug\net6.0\scopedcss\projectbundle\CustomRCL.bundle.scp.css">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\obj\Debug\net6.0\scopedcss\projectbundle\CustomRCL.bundle.scp.css">
       <PackagePath>wwwroot\_content\CustomRCL\CustomRCL.bundle.scp.css</PackagePath>
-      <Modified>2022-11-04T03:02:49.584</Modified>
+      <Modified>2022-11-04T15:26:19.761</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\data\historicalComparisonData.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\addOns.d.ts">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\addOns.d.ts</PackagePath>
+      <Modified>2022-10-27T17:52:54.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\addOns.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\addOns.js</PackagePath>
+      <Modified>2022-10-27T17:53:01.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\advanced.d.ts">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\advanced.d.ts</PackagePath>
+      <Modified>2022-10-27T17:53:10.630</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\chartiq.d.ts">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\chartiq.d.ts</PackagePath>
+      <Modified>2022-08-08T21:59:47.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\chartiq.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\chartiq.js</PackagePath>
+      <Modified>2022-08-08T21:59:47.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\components.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\components.js</PackagePath>
+      <Modified>2022-10-27T17:52:41.538</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\componentUI.d.ts">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\componentUI.d.ts</PackagePath>
+      <Modified>2022-10-27T17:52:32.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\componentUI.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\componentUI.js</PackagePath>
+      <Modified>2022-10-27T17:52:22.459</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\defaultConfiguration.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\defaultConfiguration.js</PackagePath>
+      <Modified>2022-10-27T17:52:15.513</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\deprecated.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\deprecated.js</PackagePath>
+      <Modified>2022-10-27T17:53:38.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\exampleJsInterop.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\exampleJsInterop.js</PackagePath>
+      <Modified>2022-10-22T15:47:30.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\data\historicalComparisonData.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\data\historicalComparisonData.js</PackagePath>
       <Modified>2022-08-08T21:59:47.203</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\data\SAMPLE_DAILY.csv">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\data\SAMPLE_DAILY.csv">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\data\SAMPLE_DAILY.csv</PackagePath>
       <Modified>2022-08-08T21:59:47.144</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\data\SAMPLE_SERIES_DAILY.csv">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\data\SAMPLE_SERIES_DAILY.csv">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\data\SAMPLE_SERIES_DAILY.csv</PackagePath>
       <Modified>2022-08-08T21:59:47.149</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\data\STX_SAMPLE_5MIN.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\data\STX_SAMPLE_5MIN.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\data\STX_SAMPLE_5MIN.js</PackagePath>
       <Modified>2022-08-08T21:59:47.156</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\data\STX_SAMPLE_5MIN_test.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\data\STX_SAMPLE_5MIN_test.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\data\STX_SAMPLE_5MIN_test.js</PackagePath>
       <Modified>2022-08-08T21:59:47.158</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\data\STX_SAMPLE_DAILY.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\data\STX_SAMPLE_DAILY.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\data\STX_SAMPLE_DAILY.js</PackagePath>
       <Modified>2022-08-08T21:59:47.193</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\feeds\L2_simulator.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\feeds\L2_simulator.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\feeds\L2_simulator.js</PackagePath>
       <Modified>2022-10-27T18:23:01.885</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\feeds\optionChainSimulator.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\feeds\optionChainSimulator.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\feeds\optionChainSimulator.js</PackagePath>
       <Modified>2022-08-08T21:59:47.211</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\feeds\quoteFeedForecastSimulator.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\feeds\quoteFeedForecastSimulator.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\feeds\quoteFeedForecastSimulator.js</PackagePath>
       <Modified>2022-10-27T18:23:14.820</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\feeds\quoteFeedSimulator.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\feeds\quoteFeedSimulator.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\feeds\quoteFeedSimulator.js</PackagePath>
       <Modified>2022-08-08T21:59:47.220</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\feeds\sampleQuoteFeed.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\feeds\sampleQuoteFeed.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\feeds\sampleQuoteFeed.js</PackagePath>
       <Modified>2022-08-08T21:59:47.225</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\feeds\symbolLookupChartIQ.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\feeds\symbolLookupChartIQ.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\feeds\symbolLookupChartIQ.js</PackagePath>
       <Modified>2022-10-27T18:23:24.899</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\feeds\termstructureDataSimulator.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\feeds\termstructureDataSimulator.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\feeds\termstructureDataSimulator.js</PackagePath>
       <Modified>2022-08-08T21:59:47.231</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\help\helpContent.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\help\helpContent.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\help\helpContent.js</PackagePath>
       <Modified>2022-10-27T18:24:28.364</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\help\rectangle.png">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\help\rectangle.png">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\help\rectangle.png</PackagePath>
       <Modified>2022-08-08T21:59:47.240</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\markers\img\helicopter.png">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\markers\img\helicopter.png">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\markers\img\helicopter.png</PackagePath>
       <Modified>2022-08-08T21:59:47.246</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\markers\markersSample.css">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\markers\markersSample.css">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\markers\markersSample.css</PackagePath>
       <Modified>2022-08-08T21:59:47.248</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\markers\markersSample.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\markers\markersSample.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\markers\markersSample.js</PackagePath>
       <Modified>2022-10-27T18:22:12.593</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\markers\tradeAnalyticsSample.css">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\markers\tradeAnalyticsSample.css">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\markers\tradeAnalyticsSample.css</PackagePath>
       <Modified>2022-08-08T21:59:47.254</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\markers\tradeAnalyticsSample.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\markers\tradeAnalyticsSample.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\markers\tradeAnalyticsSample.js</PackagePath>
       <Modified>2022-10-27T18:22:22.991</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\markers\videoSample.css">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\markers\videoSample.css">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\markers\videoSample.css</PackagePath>
       <Modified>2022-08-08T21:59:47.259</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\markers\videoSample.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\markers\videoSample.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\markers\videoSample.js</PackagePath>
       <Modified>2022-10-27T18:22:31.166</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\markets\marketDefinitionsSample.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\markets\marketDefinitionsSample.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\markets\marketDefinitionsSample.js</PackagePath>
       <Modified>2022-10-27T18:21:45.955</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\markets\marketSymbologySample.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\markets\marketSymbologySample.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\markets\marketSymbologySample.js</PackagePath>
       <Modified>2022-10-27T18:21:58.616</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\chart-grid.css">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\chart-grid.css">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\chart-grid\chart-grid.css</PackagePath>
       <Modified>2022-08-08T21:59:47.283</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\chart-grid.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\chart-grid.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\chart-grid\chart-grid.js</PackagePath>
       <Modified>2022-10-27T18:25:39.992</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\chart-linker.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\chart-linker.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\chart-grid\chart-linker.js</PackagePath>
       <Modified>2022-10-27T18:25:47.264</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\README.md">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\README.md">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\chart-grid\README.md</PackagePath>
       <Modified>2022-08-08T21:59:47.279</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\sample-template-chart-grid.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\sample-template-chart-grid.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\chart-grid\sample-template-chart-grid.html</PackagePath>
       <Modified>2022-08-08T21:59:47.321</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\sample-template-grid-context.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\chart-grid\sample-template-grid-context.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\chart-grid\sample-template-grid-context.html</PackagePath>
       <Modified>2022-08-08T21:59:47.324</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\partials\sample-template-advanced-context.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\partials\sample-template-advanced-context.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\partials\sample-template-advanced-context.html</PackagePath>
       <Modified>2022-08-08T21:59:47.328</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\partials\sample-template-advanced-multi-context.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\partials\sample-template-advanced-multi-context.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\partials\sample-template-advanced-multi-context.html</PackagePath>
       <Modified>2022-08-08T21:59:47.331</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\partials\sample-template-cross-section-context.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\partials\sample-template-cross-section-context.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\partials\sample-template-cross-section-context.html</PackagePath>
       <Modified>2022-08-08T21:59:47.335</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\README.md">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\README.md">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\README.md</PackagePath>
       <Modified>2022-08-08T21:59:47.275</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-active-trader.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-active-trader.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-active-trader.html</PackagePath>
       <Modified>2022-08-08T21:59:47.338</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-advanced.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-advanced.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-advanced.html</PackagePath>
       <Modified>2022-08-08T21:59:47.347</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-advanced-multi.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-advanced-multi.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-advanced-multi.html</PackagePath>
       <Modified>2022-08-08T21:59:47.345</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-basic.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-basic.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-basic.html</PackagePath>
       <Modified>2022-08-08T21:59:47.351</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-instant-chart.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-instant-chart.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-instant-chart.html</PackagePath>
       <Modified>2022-08-08T21:59:47.354</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-institutional.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-institutional.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-institutional.html</PackagePath>
       <Modified>2022-08-08T21:59:47.361</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-multi-charts.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-multi-charts.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-multi-charts.html</PackagePath>
       <Modified>2022-08-08T21:59:47.364</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-option-chain-analysis.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-option-chain-analysis.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-option-chain-analysis.html</PackagePath>
       <Modified>2022-08-08T21:59:47.369</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-options.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-options.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-options.html</PackagePath>
       <Modified>2022-08-08T21:59:47.372</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-term-structure.html">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\templates\sample-template-term-structure.html">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\templates\sample-template-term-structure.html</PackagePath>
       <Modified>2022-08-08T21:59:47.374</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\ChartIQ\js\examples\translations\translationSample.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\examples\translations\translationSample.js">
       <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\examples\translations\translationSample.js</PackagePath>
       <Modified>2022-10-27T18:26:27.944</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\ConnectorRCL\wwwroot\exampleJsInterop.js">
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\extras\fdc3.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\fdc3.js</PackagePath>
+      <Modified>2022-08-08T21:59:47.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\extras\hlcbox.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\hlcbox.js</PackagePath>
+      <Modified>2022-10-27T18:26:58.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\extras\optionsAnalysis.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\optionsAnalysis.js</PackagePath>
+      <Modified>2022-10-27T18:27:04.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\extras\optionSentimentByStrike.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\optionSentimentByStrike.js</PackagePath>
+      <Modified>2022-10-27T18:27:11.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\extras\requestLimiter.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\requestLimiter.js</PackagePath>
+      <Modified>2022-10-27T18:27:19.537</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\extras\svgcharts\piechart.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\extras\svgcharts\piechart.js</PackagePath>
+      <Modified>2022-10-27T18:26:45.400</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\inlinescript.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\inlinescript.js</PackagePath>
+      <Modified>2022-11-01T03:48:38.569</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\inlinescript-test.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\inlinescript-test.js</PackagePath>
+      <Modified>2022-11-02T18:41:59.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\standard.d.ts">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\standard.d.ts</PackagePath>
+      <Modified>2022-10-27T17:54:13.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\standard.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\standard.js</PackagePath>
+      <Modified>2022-10-27T17:58:14.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\thirdparty\custom-elements.min.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\thirdparty\custom-elements.min.js</PackagePath>
+      <Modified>2022-08-08T21:59:47.590</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\thirdparty\html2canvas.min.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\thirdparty\html2canvas.min.js</PackagePath>
+      <Modified>2022-08-08T21:59:47.608</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\ChartIQ\js\thirdparty\perfect-scrollbar.esm.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ\js\thirdparty\perfect-scrollbar.esm.js</PackagePath>
+      <Modified>2022-08-08T21:59:47.612</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\exampleJsInterop.js">
       <PackagePath>wwwroot\_content\CustomRCL\exampleJsInterop.js</PackagePath>
       <Modified>2022-10-22T15:47:30.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.371</Modified>
+      <Modified>2022-11-04T15:26:28.630</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.388</Modified>
+      <Modified>2022-11-04T15:26:28.647</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.410</Modified>
+      <Modified>2022-11-04T15:26:28.671</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.443</Modified>
+      <Modified>2022-11-04T15:26:28.710</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.573</Modified>
+      <Modified>2022-11-04T15:26:28.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf">
       <PackagePath>OpenSans-Regular.ttf</PackagePath>
@@ -2111,207 +2203,207 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2022-11-04T03:03:03.622</Modified>
+      <Modified>2022-11-04T15:26:28.885</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.934</Modified>
+      <Modified>2022-11-04T15:26:29.196</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.948</Modified>
+      <Modified>2022-11-04T15:26:29.217</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.959</Modified>
+      <Modified>2022-11-04T15:26:29.228</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.978</Modified>
+      <Modified>2022-11-04T15:26:29.250</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2022-11-04T03:03:04.043</Modified>
+      <Modified>2022-11-04T15:26:29.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.723</Modified>
+      <Modified>2022-11-04T15:26:28.981</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.726</Modified>
+      <Modified>2022-11-04T15:26:28.986</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.746</Modified>
+      <Modified>2022-11-04T15:26:29.006</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.730</Modified>
+      <Modified>2022-11-04T15:26:28.991</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.736</Modified>
+      <Modified>2022-11-04T15:26:28.996</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.697</Modified>
+      <Modified>2022-11-04T15:26:28.953</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.702</Modified>
+      <Modified>2022-11-04T15:26:28.957</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.719</Modified>
+      <Modified>2022-11-04T15:26:28.976</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.706</Modified>
+      <Modified>2022-11-04T15:26:28.962</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.710</Modified>
+      <Modified>2022-11-04T15:26:28.967</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.641</Modified>
+      <Modified>2022-11-04T15:26:28.895</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.646</Modified>
+      <Modified>2022-11-04T15:26:28.900</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.653</Modified>
+      <Modified>2022-11-04T15:26:28.906</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.658</Modified>
+      <Modified>2022-11-04T15:26:28.911</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.665</Modified>
+      <Modified>2022-11-04T15:26:28.918</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.670</Modified>
+      <Modified>2022-11-04T15:26:28.922</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.674</Modified>
+      <Modified>2022-11-04T15:26:28.927</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.693</Modified>
+      <Modified>2022-11-04T15:26:28.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.680</Modified>
+      <Modified>2022-11-04T15:26:28.932</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.685</Modified>
+      <Modified>2022-11-04T15:26:28.936</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.811</Modified>
+      <Modified>2022-11-04T15:26:29.072</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.818</Modified>
+      <Modified>2022-11-04T15:26:29.079</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.824</Modified>
+      <Modified>2022-11-04T15:26:29.087</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.834</Modified>
+      <Modified>2022-11-04T15:26:29.097</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.850</Modified>
+      <Modified>2022-11-04T15:26:29.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.778</Modified>
+      <Modified>2022-11-04T15:26:29.038</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.784</Modified>
+      <Modified>2022-11-04T15:26:29.043</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.788</Modified>
+      <Modified>2022-11-04T15:26:29.050</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.795</Modified>
+      <Modified>2022-11-04T15:26:29.056</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.805</Modified>
+      <Modified>2022-11-04T15:26:29.066</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.751</Modified>
+      <Modified>2022-11-04T15:26:29.012</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.755</Modified>
+      <Modified>2022-11-04T15:26:29.017</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.759</Modified>
+      <Modified>2022-11-04T15:26:29.021</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.765</Modified>
+      <Modified>2022-11-04T15:26:29.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.773</Modified>
+      <Modified>2022-11-04T15:26:29.034</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.856</Modified>
+      <Modified>2022-11-04T15:26:29.121</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.864</Modified>
+      <Modified>2022-11-04T15:26:29.130</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.875</Modified>
+      <Modified>2022-11-04T15:26:29.140</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.889</Modified>
+      <Modified>2022-11-04T15:26:29.153</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.922</Modified>
+      <Modified>2022-11-04T15:26:29.185</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.682</Modified>
+      <Modified>2022-11-04T15:26:28.937</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.694</Modified>
+      <Modified>2022-11-04T15:26:28.951</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.711</Modified>
+      <Modified>2022-11-04T15:26:28.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.734</Modified>
+      <Modified>2022-11-04T15:26:28.998</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2022-11-04T03:03:03.791</Modified>
+      <Modified>2022-11-04T15:26:29.063</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

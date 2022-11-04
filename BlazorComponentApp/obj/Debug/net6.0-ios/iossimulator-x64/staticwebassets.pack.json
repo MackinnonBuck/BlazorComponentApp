@@ -725,10 +725,6 @@
       "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\exampleJsInterop.js",
-      "PackagePath": "staticwebassets\\exampleJsInterop.js"
-    },
-    {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },

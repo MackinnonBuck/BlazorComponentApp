@@ -55,7 +55,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\ConnectorLib\ConnectorLib.csproj" />
-      <ProjectReference Include="..\ConnectorRCL\CustomRCL.csproj" />
+      <ProjectReference Include="..\CustomRCL\CustomRCL.csproj" />
     </ItemGroup>
 
 </Project>

@@ -9360,8 +9360,8 @@
     },
     "CustomRCL/1.0.0": {
       "type": "project",
-      "path": "../ConnectorRCL/CustomRCL.csproj",
-      "msbuildProject": "../ConnectorRCL/CustomRCL.csproj"
+      "path": "../CustomRCL/CustomRCL.csproj",
+      "msbuildProject": "../CustomRCL/CustomRCL.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -9438,8 +9438,8 @@
             "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorLib\\ConnectorLib.csproj": {
               "projectPath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorLib\\ConnectorLib.csproj"
             },
-            "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\CustomRCL.csproj": {
-              "projectPath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\CustomRCL.csproj"
+            "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\CustomRCL.csproj": {
+              "projectPath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\CustomRCL.csproj"
             }
           }
         },
@@ -9449,8 +9449,8 @@
             "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorLib\\ConnectorLib.csproj": {
               "projectPath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorLib\\ConnectorLib.csproj"
             },
-            "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\CustomRCL.csproj": {
-              "projectPath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\CustomRCL.csproj"
+            "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\CustomRCL.csproj": {
+              "projectPath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\CustomRCL.csproj"
             }
           }
         },
@@ -9460,8 +9460,8 @@
             "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorLib\\ConnectorLib.csproj": {
               "projectPath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorLib\\ConnectorLib.csproj"
             },
-            "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\CustomRCL.csproj": {
-              "projectPath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\ConnectorRCL\\CustomRCL.csproj"
+            "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\CustomRCL.csproj": {
+              "projectPath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\CustomRCL.csproj"
             }
           }
         }

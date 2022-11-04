@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rYa0rKuBTdoXFZAI1zMCs45rP5Xrxyslanvi393ktlqoIrqI6sU7/azwSKNQoxAV8dh69SxGsAzcvfaKSw8YsQ==",
+  "dgSpecHash": "4mZyjiMWUoFbbYOWFmiu1/EY7Vgh9rJ1ibP3YoSJAnO0mU4qw6A9DzrhlAC48Gcw4lkxprLeDFPxaiVturgPxA==",
   "success": true,
   "projectFilePath": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\BlazorComponentApp\\BlazorComponentApp.csproj",
   "expectedPackageFiles": [
