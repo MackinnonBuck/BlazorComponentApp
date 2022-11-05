@@ -2,6 +2,11 @@
 @inject IJSRuntime JSRuntime
 @implements IDisposable
 
+<link rel="stylesheet" type="text/css" href="css/normalize.css" media="screen">
+<link rel="stylesheet" type="text/css" href="css/page-defaults.css" media="screen">
+<link rel="stylesheet" type="text/css" href="css/stx-chart.css" media="screen">
+<link rel="stylesheet" type="text/css" href="css/chartiq.css" media="screen">
+
 <cq-context>
 	<cq-color-picker></cq-color-picker>
 
@@ -289,7 +294,9 @@
 		ConnectorService.OnExecuteJS += OnExecuteJS;
 
 		moduleTask = new(() => JSRuntime.InvokeAsync<IJSObjectReference>(
-				"import", "./_content/wwwroot/ChartIQ/js/inlinescript-test.js").AsTask());
+				"import", "./ChartIQ/js/inlinescript-test.js").AsTask());
+//				"import", "./_content/CustomRCL/main.js").AsTask());
+
 	}
 	public async Task OnExecuteJS(string jsName, string messageBody)
 	{

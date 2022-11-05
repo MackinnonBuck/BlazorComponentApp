@@ -5,6 +5,386 @@
       "PackagePath": "staticwebassets\\CustomRCL.bundle.scp.css"
     },
     {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_ciq-components.scss",
+      "PackagePath": "staticwebassets\\css\\_ciq-components.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_ciq-drawing-palette.scss",
+      "PackagePath": "staticwebassets\\css\\_ciq-drawing-palette.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_ciq-extras.scss",
+      "PackagePath": "staticwebassets\\css\\_ciq-extras.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_ciq-fonts.scss",
+      "PackagePath": "staticwebassets\\css\\_ciq-fonts.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_ciq-full-screen.scss",
+      "PackagePath": "staticwebassets\\css\\_ciq-full-screen.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_ciq-help.scss",
+      "PackagePath": "staticwebassets\\css\\_ciq-help.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_ciq-message-toaster.scss",
+      "PackagePath": "staticwebassets\\css\\_ciq-message-toaster.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_ciq-night.scss",
+      "PackagePath": "staticwebassets\\css\\_ciq-night.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_ciq-outliers.scss",
+      "PackagePath": "staticwebassets\\css\\_ciq-outliers.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\css\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\chartiq.css",
+      "PackagePath": "staticwebassets\\css\\chartiq.css"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\chartiq.css.map",
+      "PackagePath": "staticwebassets\\css\\chartiq.css.map"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\chartiq.scss",
+      "PackagePath": "staticwebassets\\css\\chartiq.scss"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\BngRUXNadjH0qYEzV7ab-oWlsbCCwR26eg.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\BngRUXNadjH0qYEzV7ab-oWlsbCCwR26eg.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\BngRUXNadjH0qYEzV7ab-oWlsbCGwR0.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\BngRUXNadjH0qYEzV7ab-oWlsbCGwR0.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\BngRUXNadjH0qYEzV7ab-oWlsbCIwR26eg.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\BngRUXNadjH0qYEzV7ab-oWlsbCIwR26eg.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\BngRUXNadjH0qYEzV7ab-oWlsbCLwR26eg.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\BngRUXNadjH0qYEzV7ab-oWlsbCLwR26eg.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\BngSUXNadjH0qYEzV7ab-oWlsbg95AiBW_3QRQ.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\BngSUXNadjH0qYEzV7ab-oWlsbg95AiBW_3QRQ.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\BngSUXNadjH0qYEzV7ab-oWlsbg95AiFW_0.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\BngSUXNadjH0qYEzV7ab-oWlsbg95AiFW_0.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\BngSUXNadjH0qYEzV7ab-oWlsbg95AiIW_3QRQ.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\BngSUXNadjH0qYEzV7ab-oWlsbg95AiIW_3QRQ.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\BngSUXNadjH0qYEzV7ab-oWlsbg95AiLW_3QRQ.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\BngSUXNadjH0qYEzV7ab-oWlsbg95AiLW_3QRQ.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\KFOkCnqEu92Fr1MmgVxIIzI.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\KFOkCnqEu92Fr1MmgVxIIzI.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\KFOkCnqEu92Fr1Mu51xIIzI.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\KFOkCnqEu92Fr1Mu51xIIzI.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\KFOlCnqEu92Fr1MmEU9fBBc4.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\KFOlCnqEu92Fr1MmEU9fBBc4.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\KFOlCnqEu92Fr1MmSU5fBBc4.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\KFOlCnqEu92Fr1MmSU5fBBc4.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\KFOlCnqEu92Fr1MmWUlfBBc4.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\KFOlCnqEu92Fr1MmWUlfBBc4.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\KFOmCnqEu92Fr1Mu4mxK.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\KFOmCnqEu92Fr1Mu4mxK.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYbw.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYbw.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYbw.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\ieVi2ZhZI2eCN5jzbjEETS9weq8-33mZGCQYbw.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\fonts\\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\all-directional.cur",
+      "PackagePath": "staticwebassets\\css\\img\\all-directional.cur"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-clear-drawings-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-clear-drawings-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-clear-drawings.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-clear-drawings.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-done-edit-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-done-edit-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-done-edit.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-done-edit.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-notification-confirmation.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-notification-confirmation.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-notification-error.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-notification-error.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-notification-info.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-notification-info.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-notification-warning.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-notification-warning.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-redo-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-redo-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-redo.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-redo.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-save-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-save-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-save.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-save.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-undo-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-undo-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ciq-undo.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ciq-undo.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\closedhand.cur",
+      "PackagePath": "staticwebassets\\css\\img\\closedhand.cur"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ew-circle-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ew-circle-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ew-circle.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ew-circle.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ew-none-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ew-none-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ew-none.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ew-none.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ew-parentheses-white-cleaned.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ew-parentheses-white-cleaned.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ew-parentheses-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ew-parentheses-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\ew-parentheses.svg",
+      "PackagePath": "staticwebassets\\css\\img\\ew-parentheses.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\full-screen-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\full-screen-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\full-screen.svg",
+      "PackagePath": "staticwebassets\\css\\img\\full-screen.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\horizontal.cur",
+      "PackagePath": "staticwebassets\\css\\img\\horizontal.cur"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\languages.svg",
+      "PackagePath": "staticwebassets\\css\\img\\languages.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\loading-spin-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\loading-spin-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\loading-spin.svg",
+      "PackagePath": "staticwebassets\\css\\img\\loading-spin.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_day_compression.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_day_compression.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_day_compression_mini.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_day_compression_mini.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_day_expansion.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_day_expansion.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_day_expansion_mini.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_day_expansion_mini.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_day_more-above.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_day_more-above.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_day_more-below.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_day_more-below.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_night_compression.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_night_compression.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_night_compression_mini.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_night_compression_mini.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_night_expansion.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_night_expansion.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_night_expansion_mini.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_night_expansion_mini.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_night_more-above.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_night_more-above.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\outliers_night_more-below.svg",
+      "PackagePath": "staticwebassets\\css\\img\\outliers_night_more-below.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\palette-drag-strip-horizontal.svg",
+      "PackagePath": "staticwebassets\\css\\img\\palette-drag-strip-horizontal.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\palette-drag-strip.svg",
+      "PackagePath": "staticwebassets\\css\\img\\palette-drag-strip.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\smart-zoom-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\smart-zoom-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\smart-zoom.svg",
+      "PackagePath": "staticwebassets\\css\\img\\smart-zoom.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-drawing-tools-black.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-drawing-tools-black.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-drawing-tools-blue.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-drawing-tools-blue.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-drawing-tools-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-drawing-tools-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-drawing-tools.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-drawing-tools.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-markers.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-markers.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-palette-miniwidgets-black.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-palette-miniwidgets-black.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-palette-miniwidgets-blue.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-palette-miniwidgets-blue.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-palette-miniwidgets-white.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-palette-miniwidgets-white.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-panels.png",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-panels.png"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-panels.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-panels.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-ui-keyboard.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-ui-keyboard.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\stx-sprite-ui.svg",
+      "PackagePath": "staticwebassets\\css\\img\\stx-sprite-ui.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\vertical.cur",
+      "PackagePath": "staticwebassets\\css\\img\\vertical.cur"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\watermark.svg",
+      "PackagePath": "staticwebassets\\css\\img\\watermark.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\window_collapse.svg",
+      "PackagePath": "staticwebassets\\css\\img\\window_collapse.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\img\\window_expand.svg",
+      "PackagePath": "staticwebassets\\css\\img\\window_expand.svg"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\page-defaults.css",
+      "PackagePath": "staticwebassets\\css\\page-defaults.css"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\css\\stx-chart.css",
+      "PackagePath": "staticwebassets\\css\\stx-chart.css"
+    },
+    {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\exampleJsInterop.js",
       "PackagePath": "staticwebassets\\exampleJsInterop.js"
     },
