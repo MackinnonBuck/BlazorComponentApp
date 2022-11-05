@@ -2,19 +2,19 @@
 // This file contains functions which create a sample implementation of video markers by extending MarkersSample.
 // This file depends on the markersSample.js file. There is a stylesheet which goes along with it as well.
 //
-import { CIQ, markers } from "../../standard.js";
-import marker from "../../examples/markers/markersSample.js";
+import { CIQ, markers } from "./js/standard.js";
+import marker from "./js/examples/markers/markersSample.js";
 if (
 	typeof define === "undefined" &&
 	typeof module === "object" &&
 	typeof require === "function"
 ) {
-	require("../../examples/markers/videoSample.css");
+	require("./js/examples/markers/videoSample.css");
 } else if (typeof define === "function" && define.amd) {
-	define(["../../examples/markers/videoSample.css"], () => {});
+	define(["./js/examples/markers/videoSample.css"], () => {});
 } else if (typeof window !== "undefined") {
 	const _css = new URL(
-		"../../examples/markers/videoSample.css",
+		"./js/examples/markers/videoSample.css",
 		import.meta.url
 	);
 	if (import.meta.webpack === undefined) CIQ.loadStylesheet(_css.href);

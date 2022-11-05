@@ -3,18 +3,18 @@
 // This file contains functions which create sample markers.  There is a stylesheet which goes along with it as well.
 // Usage: new MarkersSample(stxx);
 //
-import { CIQ, markers } from "../../standard.js";
+import { CIQ, markers } from "./js/standard.js";
 if (
 	typeof define === "undefined" &&
 	typeof module === "object" &&
 	typeof require === "function"
 ) {
-	require("../../examples/markers/markersSample.css");
+	require("./js/examples/markers/markersSample.css");
 } else if (typeof define === "function" && define.amd) {
-	define(["../../examples/markers/markersSample.css"], () => {});
+	define(["./js/examples/markers/markersSample.css"], () => {});
 } else if (typeof window !== "undefined") {
 	const _css = new URL(
-		"../../examples/markers/markersSample.css",
+		"./js/examples/markers/markersSample.css",
 		import.meta.url
 	);
 	if (import.meta.webpack === undefined) CIQ.loadStylesheet(_css.href);

@@ -22,8 +22,8 @@
 
 		moduleTask = new(() => JSRuntime.InvokeAsync<IJSObjectReference>(
 //				"import", "./ChartIQ/js/inlinescript-test.js").AsTask());
-							"import", "./_content/CustomRCL/js/inlinescript-test.js").AsTask());
-			//	"import", "./js/main.js").AsTask());
+//							"import", "./_content/CustomRCL/js/inlinescript-test.js").AsTask());
+				"import", "./_content/CustomRCL/main.js").AsTask());
 	}
 	public async Task OnExecuteJS(string jsName, string messageBody)
 	{

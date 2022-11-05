@@ -20,7 +20,7 @@
 /* eslint-disable no-extra-parens */
 
 
-import { CIQ } from "../../components.js";
+import { CIQ } from "./js/components.js";
 const OptionsAnalysis = {
 	configure: (config) => {
 		const root = config.root || document;

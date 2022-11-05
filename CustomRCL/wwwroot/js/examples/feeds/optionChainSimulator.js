@@ -1,4 +1,4 @@
-import quoteFeedSimulator from "../../examples/feeds/quoteFeedSimulator.js";
+import quoteFeedSimulator from "./js/examples/feeds/quoteFeedSimulator.js";
 const DEBUG = false;
 const ONE_DAY = 24 * 60 * 60 * 1000;
 const SECONDS_IN_TRADING_DAY = 6.5 * 60 * 60;

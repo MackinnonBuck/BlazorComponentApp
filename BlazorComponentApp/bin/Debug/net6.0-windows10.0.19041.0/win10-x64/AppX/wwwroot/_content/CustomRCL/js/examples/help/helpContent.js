@@ -1,4 +1,4 @@
-import { CIQ } from "../../chartiq.js";
+import { CIQ } from "./js/chartiq.js";
 CIQ.Help = CIQ.Help || function () {};
 CIQ.Help.Message =
 	"Glowing dots indicate which items have help available. At any time, long press a feature to make the help window appear.";

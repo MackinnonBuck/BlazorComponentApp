@@ -1,4 +1,4 @@
-import qs from "../../examples/feeds/quoteFeedSimulator.js";
+import qs from "./js/examples/feeds/quoteFeedSimulator.js";
 const quoteFeedSimulator = Object.assign({}, qs);
 quoteFeedSimulator.formatChartData = function (response, symbol) {
 	const maturities = [

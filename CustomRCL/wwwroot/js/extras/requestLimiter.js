@@ -29,7 +29,7 @@
 	Set CIQ.RequestLimiter.logToConsole to have the requests made that second, output to the console.
 	Set CIQ.RequestLimiter.logToServer to a URL to have the requests made that second, POSTed there.
 */
-import { CIQ } from "../../chartiq.js";
+import { CIQ } from "./js/chartiq.js";
 /**
  * Rate limiter for outbound AJAX queries. Can limit the number of outbound requests per second
  * per domain.

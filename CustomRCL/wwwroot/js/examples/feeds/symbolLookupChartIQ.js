@@ -3,7 +3,7 @@
 // -------------------------------------------------------------------------------------------
 // SAMPLE SYMBOL LOOKUP IMPLEMENTATION -- Connects to ChartIQ Lookup Server
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
-import { CIQ, quoteFeed, symbolLookupBase } from "../../standard.js";
+import { CIQ, quoteFeed, symbolLookupBase } from "./js/standard.js";
 CIQ.activateImports(quoteFeed, symbolLookupBase); // so we can use CIQ.inheritsFrom
 /**
  * An example of an asynchronous Lookup.Driver that uses ChartIQ's suggestive search as its source for symbol search

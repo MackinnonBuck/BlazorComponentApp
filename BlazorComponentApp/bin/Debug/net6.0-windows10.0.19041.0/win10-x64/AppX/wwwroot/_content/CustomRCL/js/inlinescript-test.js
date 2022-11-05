@@ -1,7 +1,7 @@
 ﻿    // This inline script acts as the entry point, without creating a separate external file.
 
-    import "js/advanced.js";
-    import "js/addOns.js";
+    import "./js/advanced.js";
+    import "./js/addOns.js";
     import {CIQ} from "./components.js";
 
     /* Uncomment the following to access deprecated functions and namespaces. */
@@ -20,26 +20,26 @@
     //import "./examples/feeds/L2_simulator.js";
 
     /* Template-specific imports */
-    import getDefaultConfig from "./defaultConfiguration.js";
+    import getDefaultConfig from "./js/defaultConfiguration.js";
 
     //import "./examples/help/helpContent.js";
 
-    import PerfectScrollbar from "./thirdparty/perfect-scrollbar.esm.js";
+    import PerfectScrollbar from "./js/thirdparty/perfect-scrollbar.esm.js";
 
-    import quotefeed from "./examples/feeds/quoteFeedSimulator.js";
-    import "./examples/feeds/symbolLookupChartIQ.js";
+import quotefeed from "./js/examples/feeds/quoteFeedSimulator.js";
+import "./js/examples/feeds/symbolLookupChartIQ.js";
 
-    import "./examples/markets/marketDefinitionsSample.js";
-    import "./examples/markets/marketSymbologySample.js";
+import "./js/examples/markets/marketDefinitionsSample.js";
+import "./js/examples/markets/marketSymbologySample.js";
 
-    import marker from "./examples/markers/markersSample.js";
-    import "./examples/markers/tradeAnalyticsSample.js";
-    import "./examples/markers/videoSample.js";
+import marker from "./js/examples/markers/markersSample.js";
+import "./js/examples/markers/tradeAnalyticsSample.js";
+import "./js/examples/markers/videoSample.js";
 
-    import "./examples/translations/translationSample.js";
+import "./js/examples/translations/translationSample.js";
 
     /* Remove if not using the forecasting simulator (required for the forecasting sample). */
-    import forecastfeed from "./examples/feeds/quoteFeedForecastSimulator.js";
+import forecastfeed from "./js/examples/feeds/quoteFeedForecastSimulator.js";
 
     /* Uncomment the following import statement to enable the Option Sentiment by Strike study. */
     //import "./js/extras/optionSentimentByStrike.js";

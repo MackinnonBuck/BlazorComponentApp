@@ -1,7 +1,7 @@
 //
 // Sample translation file
 //
-import { CIQ, i18n } from "../../standard.js";
+import { CIQ, i18n } from "./js/standard.js";
 CIQ.activateImports(i18n);
 // The default language
 CIQ.I18N.language = "en-US";

@@ -1636,6 +1636,9 @@
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\js\thirdparty\perfect-scrollbar.esm.js">
       <PackagePath>wwwroot\_content\CustomRCL\js\thirdparty\perfect-scrollbar.esm.js</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\main.js">
+      <PackagePath>wwwroot\_content\CustomRCL\main.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
     </AppxPackagedFile>

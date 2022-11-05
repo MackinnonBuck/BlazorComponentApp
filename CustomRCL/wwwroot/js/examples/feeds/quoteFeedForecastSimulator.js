@@ -3,7 +3,7 @@
 // -------------------------------------------------------------------------------------------
 // SAMPLE QUOTEFEED IMPLEMENTATION -- Generates randomized forecast data
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////
-import { CIQ } from "../../chartiq.js";
+import { CIQ } from "./js/chartiq.js";
 var quoteFeedForecastSimulator = {}; // the quotefeed object
 // Some default constants which the simulator works with, they can be overridden
 quoteFeedForecastSimulator.valids = ["FOR", "FF", "FTFT", "AIQ", "EURCHF"]; // valid symbols
