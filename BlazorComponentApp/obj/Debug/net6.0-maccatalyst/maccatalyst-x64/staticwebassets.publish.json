@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "879D/8rQoTFUur8M9OcsVWs4YHzUa76GC5XDXBfsuaw=",
+  "Hash": "MAkqJC7hvl12daqX3poaCdnrsjAaFNOBnbtzIYzABO8=",
   "Source": "BlazorComponentApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -3147,6 +3147,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\ChartIQ2.razor.js",
+      "SourceId": "CustomRCL",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\",
+      "BasePath": "_content/CustomRCL",
+      "RelativePath": "ChartIQ2.razor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "ChartIQ2.razor.js"
+    },
+    {
       "Identity": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CustomRCL.bundle.scp.css",
       "SourceId": "CustomRCL",
       "SourceType": "Project",
@@ -5916,6 +5933,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\standard.js"
+    },
+    {
+      "Identity": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\js\\test.js",
+      "SourceId": "CustomRCL",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\",
+      "BasePath": "_content/CustomRCL",
+      "RelativePath": "js/test.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\test.js"
+    },
+    {
+      "Identity": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\js\\testimport.js",
+      "SourceId": "CustomRCL",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\",
+      "BasePath": "_content/CustomRCL",
+      "RelativePath": "js/testimport.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\testimport.js"
     },
     {
       "Identity": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\js\\thirdparty\\custom-elements.min.js",

@@ -3,19 +3,19 @@
 // This file contains functions which create a sample implementation of post trade analysis using markers.  This file is meant to be used in conjuction with the markersSample.js file by extending the functionality of MarkersSample. There is a stylesheet which goes along with it as well.
 // Usage: new MarkersSample(stxx);
 //
-import { CIQ, markers } from "./js/standard.js";
-import marker from "./js/examples/markers/markersSample.js";
+import { CIQ, markers } from "../../standard.js";
+import marker from "../../examples/markers/markersSample.js";
 if (
 	typeof define === "undefined" &&
 	typeof module === "object" &&
 	typeof require === "function"
 ) {
-	require("./js/examples/markers/tradeAnalyticsSample.css");
+	require("../../examples/markers/tradeAnalyticsSample.css");
 } else if (typeof define === "function" && define.amd) {
-	define(["./js/examples/markers/tradeAnalyticsSample.css"], () => {});
+	define(["../../examples/markers/tradeAnalyticsSample.css"], () => {});
 } else if (typeof window !== "undefined") {
 	const _css = new URL(
-		"./js/examples/markers/tradeAnalyticsSample.css",
+		"../../examples/markers/tradeAnalyticsSample.css",
 		import.meta.url
 	);
 	if (import.meta.webpack === undefined) CIQ.loadStylesheet(_css.href);

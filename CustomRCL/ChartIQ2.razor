@@ -16,19 +16,20 @@
 	{
 	}
 
-	protected override void OnInitialized()
+	protected override async void OnInitialized()
 	{
 		ConnectorService.OnExecuteJS += OnExecuteJS;
 
-		moduleTask = new(() => JSRuntime.InvokeAsync<IJSObjectReference>(
-//				"import", "./ChartIQ/js/inlinescript-test.js").AsTask());
-//							"import", "./_content/CustomRCL/js/inlinescript-test.js").AsTask());
-				"import", "./_content/CustomRCL/main.js").AsTask());
+				moduleTask = new(() => JSRuntime.InvokeAsync<IJSObjectReference>(
+				//				"import", "./ChartIQ/js/inlinescript-test.js").AsTask());  // this works when using js in the host app under wwwroot
+				//				"import", "./_content/CustomRCL/js/inlinescript-test.js").AsTask());  // fails to load
+									"import", "./_content/CustomRCL/js/test.js").AsTask());  //  this works
+				//					"import", "./_content/CustomRCL/ChartIQ2.razor.js").AsTask());  //  this works
+				//				"import", "./_content/CustomRCL/main.js").AsTask());   // js load successful but fail to call ChartInit() function
 	}
 	public async Task OnExecuteJS(string jsName, string messageBody)
 	{
 		var module = await moduleTask.Value;
-
 		await module.InvokeVoidAsync(jsName, messageBody);
 	}
 

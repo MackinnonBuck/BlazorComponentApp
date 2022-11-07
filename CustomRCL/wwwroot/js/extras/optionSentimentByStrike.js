@@ -25,7 +25,7 @@
 	==========================
 	Requires a quotefeed which creates an optionChain object in the masterData.  See examples/feeds/optionChainSimulator.js
 */
-import { CIQ } from "./js/chartiq.js";
+import { CIQ } from "../../chartiq.js";
 if (!CIQ.Studies) {
 	console.error(
 		"optionSentimentByStrike feature requires first activating studies feature."

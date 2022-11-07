@@ -1423,6 +1423,9 @@
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\BlazorComponentApp\wwwroot\favicon.ico">
       <PackagePath>wwwroot\favicon.ico</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\ChartIQ2.razor.js">
+      <PackagePath>wwwroot\_content\CustomRCL\ChartIQ2.razor.js</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\obj\Debug\net6.0\scopedcss\projectbundle\CustomRCL.bundle.scp.css">
       <PackagePath>wwwroot\_content\CustomRCL\CustomRCL.bundle.scp.css</PackagePath>
     </AppxPackagedFile>
@@ -1911,6 +1914,12 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\js\standard.js">
       <PackagePath>wwwroot\_content\CustomRCL\js\standard.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\js\test.js">
+      <PackagePath>wwwroot\_content\CustomRCL\js\test.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\js\testimport.js">
+      <PackagePath>wwwroot\_content\CustomRCL\js\testimport.js</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\DebugLabs\Blazor\repo_blazor_component\CustomRCL\wwwroot\js\thirdparty\custom-elements.min.js">
       <PackagePath>wwwroot\_content\CustomRCL\js\thirdparty\custom-elements.min.js</PackagePath>

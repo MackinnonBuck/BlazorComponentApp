@@ -2,7 +2,7 @@
 // Sample market symbology file
 // Customize this file if you need symbology definitions different from these default settings
 //
-import { CIQ } from "./js/chartiq.js";
+import { CIQ } from "../../chartiq.js";
 CIQ.Market = CIQ.Market || function () {};
 CIQ.Market.Symbology = CIQ.Market.Symbology || function () {};
 /**

@@ -239,6 +239,7 @@ wwwroot\css\open-iconic\FONT-LICENSE
 wwwroot\css\open-iconic\ICON-LICENSE
 wwwroot\css\open-iconic\README.md
 wwwroot\favicon.ico
+wwwroot\_content\CustomRCL\ChartIQ2.razor.js
 wwwroot\_content\CustomRCL\CustomRCL.bundle.scp.css
 wwwroot\_content\CustomRCL\css\_ciq-components.scss
 wwwroot\_content\CustomRCL\css\_ciq-drawing-palette.scss
@@ -402,6 +403,8 @@ wwwroot\_content\CustomRCL\js\inlinescript.js
 wwwroot\_content\CustomRCL\js\inlinescript-test.js
 wwwroot\_content\CustomRCL\js\standard.d.ts
 wwwroot\_content\CustomRCL\js\standard.js
+wwwroot\_content\CustomRCL\js\test.js
+wwwroot\_content\CustomRCL\js\testimport.js
 wwwroot\_content\CustomRCL\js\thirdparty\custom-elements.min.js
 wwwroot\_content\CustomRCL\js\thirdparty\html2canvas.min.js
 wwwroot\_content\CustomRCL\js\thirdparty\perfect-scrollbar.esm.js

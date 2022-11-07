@@ -25,7 +25,7 @@
 	===============
 	Supports the HLC Box and HLC Shaded Box renderers.
 */
-import { CIQ } from "./js/chartiq.js";
+import { CIQ } from "../../chartiq.js";
 /**
  * Draws a "high/low/close" box on the chart. It can be called on the primary chart panel or on a study panel.
  *

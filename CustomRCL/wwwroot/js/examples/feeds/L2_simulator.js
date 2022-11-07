@@ -16,7 +16,7 @@
  * params.onTrade - set to true to create L2 records when the regular quote updates occur
  * If masterData is empty, simulator will generate Last quote as well.  Otherwise it gets Last from the masterData's most recent Close.
  */
-import { CIQ } from "./js/chartiq.js";
+import { CIQ } from "../../chartiq.js";
 CIQ.simulateL2 = function (params) {
 	function moveBidAsk(close) {
 		var stx = this;

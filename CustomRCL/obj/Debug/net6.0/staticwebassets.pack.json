@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\ChartIQ2.razor.js",
+      "PackagePath": "staticwebassets\\ChartIQ2.razor.js"
+    },
+    {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CustomRCL.bundle.scp.css",
       "PackagePath": "staticwebassets\\CustomRCL.bundle.scp.css"
     },
@@ -651,6 +655,14 @@
     {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\js\\standard.js",
       "PackagePath": "staticwebassets\\js\\standard.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\js\\test.js",
+      "PackagePath": "staticwebassets\\js\\test.js"
+    },
+    {
+      "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\js\\testimport.js",
+      "PackagePath": "staticwebassets\\js\\testimport.js"
     },
     {
       "Id": "C:\\DebugLabs\\Blazor\\repo_blazor_component\\CustomRCL\\wwwroot\\js\\thirdparty\\custom-elements.min.js",

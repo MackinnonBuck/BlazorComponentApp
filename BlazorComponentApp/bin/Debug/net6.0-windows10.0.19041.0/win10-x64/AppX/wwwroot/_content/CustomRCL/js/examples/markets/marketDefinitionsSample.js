@@ -1,7 +1,7 @@
 //
 // Sample market definitions file
 //
-import { CIQ } from "./js/chartiq.js";
+import { CIQ } from "../../chartiq.js";
 CIQ.Market = CIQ.Market || function () {};
 CIQ.Market.GLOBEX = {
 	name: "GLOBEX",
